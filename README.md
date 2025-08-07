@@ -76,15 +76,14 @@ The goal is to create a seamless digital experience for internal users while imp
 
 ## 👨‍💻 Author
 
-*Anshul Sharma*  
+*Sanidhya Dhangar*  
 Salesforce Developer | B.Tech in CSE-DS | Passionate about CRM & Cloud Solutions  
-[LinkedIn Profile](#)  -      www.linkedin.com/in/anshul-sharma-9856882a4
 ---
 
 ## 🔗 Project Links
 
 - 🎥 *Demo Video*: Coming soon...  
-- 💻 *GitHub Repository*: [Click here] -> (https://github.com/AnshulSharma9340/handsmen-threads-salesforce)
+- 💻 *GitHub Repository*: [Click here] -> 
 
 ---
 
