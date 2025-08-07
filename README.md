@@ -83,7 +83,7 @@ Salesforce Developer | B.Tech in CSE-DS | Passionate about CRM & Cloud Solutions
 ## 🔗 Project Links
 
 - 🎥 *Demo Video*: Coming soon...  
-- 💻 *GitHub Repository*: [Click here] -> 
+- 💻 *GitHub Repository*: [Click here] -> (https://github.com/SanidhyaDhangar/HandsmenThreadsProject.git)
 
 ---
 
